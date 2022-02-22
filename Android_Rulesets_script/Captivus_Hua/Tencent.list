@@ -1,120 +1,120 @@
-# 🖥 Tencent
+# Tencent
 
-DOMAIN-SUFFIX,foxmail.com,🖥 Tencent
+DOMAIN-SUFFIX,foxmail.com
 
-DOMAIN-SUFFIX,gtimg.com,🖥 Tencent
+DOMAIN-SUFFIX,gtimg.com
 
-DOMAIN-SUFFIX,gtimg.cn,🖥 Tencent
+DOMAIN-SUFFIX,gtimg.cn
 
-DOMAIN-SUFFIX,idqqimg.com,🖥 Tencent
+DOMAIN-SUFFIX,idqqimg.com
 
-DOMAIN-SUFFIX,igamecj.com,🖥 Tencent
+DOMAIN-SUFFIX,igamecj.com
 
-DOMAIN-SUFFIX,myapp.com,🖥 Tencent
+DOMAIN-SUFFIX,myapp.com
 
-DOMAIN-SUFFIX,myqcloud.com,🖥 Tencent
+DOMAIN-SUFFIX,myqcloud.com
 
-DOMAIN-SUFFIX,qq.com,🖥 Tencent
+DOMAIN-SUFFIX,qq.com
 
-DOMAIN-SUFFIX,qq.com.cn,🖥 Tencent
+DOMAIN-SUFFIX,qq.com.cn
 
-DOMAIN-SUFFIX,qpic.cn,🖥 Tencent
+DOMAIN-SUFFIX,qpic.cn
 
-DOMAIN-SUFFIX,qqmail.com,🖥 Tencent
+DOMAIN-SUFFIX,qqmail.com
 
-DOMAIN-SUFFIX,qqurl.com,🖥 Tencent
+DOMAIN-SUFFIX,qqurl.com
 
-DOMAIN-SUFFIX,smtcdns.com,🖥 Tencent
+DOMAIN-SUFFIX,smtcdns.com
 
-DOMAIN-SUFFIX,smtcdns.net,🖥 Tencent
+DOMAIN-SUFFIX,smtcdns.net
 
-DOMAIN-SUFFIX,soso.com,🖥 Tencent
+DOMAIN-SUFFIX,soso.com
 
-DOMAIN-SUFFIX,tencent-cloud.net,🖥 Tencent
+DOMAIN-SUFFIX,tencent-cloud.net
 
-DOMAIN-SUFFIX,tencent.com,🖥 Tencent
+DOMAIN-SUFFIX,tencent.com
 
-DOMAIN-SUFFIX,tencentmind.com,🖥 Tencent
+DOMAIN-SUFFIX,tencentmind.com
 
-DOMAIN-SUFFIX,tenpay.com,🖥 Tencent
+DOMAIN-SUFFIX,tenpay.com
 
-DOMAIN-SUFFIX,wechat.com,🖥 Tencent
+DOMAIN-SUFFIX,wechat.com
 
-DOMAIN-SUFFIX,weixin.com,🖥 Tencent
+DOMAIN-SUFFIX,weixin.com
 
-DOMAIN-SUFFIX,weiyun.com,🖥 Tencent
+DOMAIN-SUFFIX,weiyun.com
 
-IP-CIDR,19.28.0.0/23,🖥 Tencent,no-resolve
+IP-CIDR,19.28.0.0/23
 
-IP-CIDR,45.40.192.0/19,🖥 Tencent,no-resolve
+IP-CIDR,45.40.192.0/19
 
-IP-CIDR,49.51.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,49.51.0.0/16
 
-IP-CIDR,62.234.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,62.234.0.0/16
 
-IP-CIDR,94.191.0.0/17,🖥 Tencent,no-resolve
+IP-CIDR,94.191.0.0/17
 
-IP-CIDR,103.7.28.0/22,🖥 Tencent,no-resolve
+IP-CIDR,103.7.28.0/22
 
-IP-CIDR,103.116.50.0/23,🖥 Tencent,no-resolve
+IP-CIDR,103.116.50.0/23
 
-IP-CIDR,103.231.60.0/24,🖥 Tencent,no-resolve
+IP-CIDR,103.231.60.0/24
 
-IP-CIDR,109.244.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,109.244.0.0/16
 
-IP-CIDR,111.30.128.0/21,🖥 Tencent,no-resolve
+IP-CIDR,111.30.128.0/21
 
-IP-CIDR,111.30.136.0/24,🖥 Tencent,no-resolve
+IP-CIDR,111.30.136.0/24
 
-IP-CIDR,111.30.139.0/24,🖥 Tencent,no-resolve
+IP-CIDR,111.30.139.0/24
 
-IP-CIDR,111.30.140.0/23,🖥 Tencent,no-resolve
+IP-CIDR,111.30.140.0/23
 
-IP-CIDR,115.159.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,115.159.0.0/16
 
-IP-CIDR,119.28.0.0/15,🖥 Tencent,no-resolve
+IP-CIDR,119.28.0.0/15
 
-IP-CIDR,120.88.56.0/23,🖥 Tencent,no-resolve
+IP-CIDR,120.88.56.0/23
 
-IP-CIDR,121.51.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,121.51.0.0/16
 
-IP-CIDR,129.28.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,129.28.0.0/16
 
-IP-CIDR,129.204.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,129.204.0.0/16,no-resolve
 
-IP-CIDR,129.211.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,129.211.0.0/16,no-resolve
 
-IP-CIDR,132.232.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,132.232.0.0/16,no-resolve
 
-IP-CIDR,134.175.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,134.175.0.0/16,no-resolve
 
-IP-CIDR,146.56.192.0/18,🖥 Tencent,no-resolve
+IP-CIDR,146.56.192.0/18,no-resolve
 
-IP-CIDR,148.70.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,148.70.0.0/16,no-resolve
 
-IP-CIDR,150.109.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,150.109.0.0/16,no-resolve
 
-IP-CIDR,152.136.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,152.136.0.0/16,no-resolve
 
-IP-CIDR,162.14.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,162.14.0.0/16,no-resolve
 
-IP-CIDR,162.62.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,162.62.0.0/16,no-resolve
 
-IP-CIDR,170.106.130.0/24,🖥 Tencent,no-resolve
+IP-CIDR,170.106.130.0/24,no-resolve
 
-IP-CIDR,182.254.0.0/16,🖥 Tencent,no-resolve
+IP-CIDR,182.254.0.0/16,no-resolve
 
-IP-CIDR,188.131.128.0/17,🖥 Tencent,no-resolve
+IP-CIDR,188.131.128.0/17,no-resolve
 
-IP-CIDR,203.195.128.0/17,🖥 Tencent,no-resolve
+IP-CIDR,203.195.128.0/17,no-resolve
 
-IP-CIDR,203.205.128.0/17,🖥 Tencent,no-resolve
+IP-CIDR,203.205.128.0/17,no-resolve
 
-IP-CIDR,210.4.138.0/24,🖥 Tencent,no-resolve
+IP-CIDR,210.4.138.0/24,no-resolve
 
-IP-CIDR,211.152.128.0/23,🖥 Tencent,no-resolve
+IP-CIDR,211.152.128.0/23,no-resolve
 
-IP-CIDR,211.152.132.0/23,🖥 Tencent,no-resolve
+IP-CIDR,211.152.132.0/23,no-resolve
 
 IP-CIDR,211.152.148.0/23,🖥 Tencent,no-resolve
 
