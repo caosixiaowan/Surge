@@ -8,6 +8,10 @@ DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
+IP-CIDR,108.177.125.188,no-resolve
+IP-CIDR,108.177.125.188/80,no-resolve
+IP-CIDR,108.177.125.188/8080,no-resolve
+IP-CIDR,108.177.125.188/443,no-resolve
 IP-CIDR,64.233.177.188/32,no-resolve
 IP-CIDR,64.233.186.188/32,no-resolve
 IP-CIDR,64.233.187.188/32,no-resolve
